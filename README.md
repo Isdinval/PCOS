@@ -1,7 +1,7 @@
 # 📊 Exploring Predictive Health Factors: PCOS Lifestyle Impact Analysis
 
 ## 📝 Description du Projet
-Ce projet s'inscrit dans le cadre de la compétition **Kaggle Polycystic Ovary Syndrome (PCOS) Lifestyle Impact Research Competition**, dont l'objectif est d'analyser l'impact des choix de style de vie sur le **syndrome des ovaires polykystiques (SOPK)**. Le SOPK est un trouble endocrinien courant qui affecte la santé reproductive et la qualité de vie des femmes. Ce projet vise à explorer les facteurs prédictifs de la santé reproductive en utilisant des techniques avancées de **machine learning** et d'analyse de données.
+Ce projet s'inscrit dans le cadre de la compétition **Kaggle Polycystic Ovary Syndrome (PCOS) Lifestyle Impact Research Competition**, organisé par le Kaggle Master yunsuxiaozi, dont l'objectif est d'analyser l'impact des choix de style de vie sur le **syndrome des ovaires polykystiques (SOPK)**. Le SOPK est un trouble endocrinien courant qui affecte la santé reproductive et la qualité de vie des femmes. Ce projet vise à explorer les facteurs prédictifs de la santé reproductive en utilisant des techniques avancées de **machine learning** et d'analyse de données.
 
 Le dataset utilisé a été généré à partir d'un modèle de deep learning entraîné sur des données réelles de SOPK. Les distributions des caractéristiques sont proches de l'original, mais pas identiques, ce qui permet d'explorer les différences et d'améliorer les performances des modèles.
 
